@@ -1,0 +1,30 @@
+{
+    "ct_boss_an_ngon": [
+      {
+        "id": "1",
+        "ten_boss": "Thuốc trị ve, bọ chét cho chó Nexgard 2-4kg",
+        "slug": "thuoc-tri-ve",
+        "mo_ta": "Thuốc trị bọ, ve, rận cho chó con. Hiệu quả trong vòng 24 giờ và kéo dài đến 1 tháng.",
+        "gia": "170000",
+        "hinh": "images/boss_an_ngon/thuoc_tri_ve.png",
+        "ngay": "2023-11-07 09:54:57",
+        "thuong_hieu": "Nexgard",
+        "xuat_xu": "Pháp",
+        "trong_luong": "11.3g",
+        "so_luong": "1 viên/hộp"
+      },
+      {
+        "id": "2",
+        "ten_boss": "Thuốc trị ve cho chó mới lớn",
+        "slug": "pate-cho-cho-pedigree",
+        "mo_ta": "bọ chét cho chó Nexgard trên 10kg",
+        "gia": "310000",
+        "hinh": "images/boss_an_ngon/thuoc_tri_ve1.png",
+        "ngay": "2023-11-08 10:30:00",
+        "thuong_hieu": "Nexgard",
+        "xuat_xu": "Pháp",
+        "trong_luong": "11.0g",
+        "so_luong": "1 viên"
+      }
+    ]
+  }

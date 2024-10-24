@@ -1,0 +1,178 @@
+{
+  "san_pham_ban_chay": [
+    {"id":"1","ten_sp":"Thịt cá hồi hun khói Smoked","slug":"thi-ca-hoi","gia":"65000","hinh":"images/sp_ban_chay/thit_cahoi_Smoked.jpg","mo_ta":"Món ăn dinh dưỡng cho mèo.","ngay":"2023-11-07 09:54:57"},
+    {"id":"2","ten_sp":"bánh thưởng Me-O cho mèo đủ các vị","slug":"Me-O","gia":"18000","hinh":"images/sp_ban_chay/Banh_thuong_Me_o.png","mo_ta":"Món ăn cho mèo thơm ngon.","ngay":"2023-11-07 09:54:57"},
+    {"id":"3","ten_sp":"Cỏ mèo dán tường","slug":"co-meo","gia":"40000","hinh":"images/sp_ban_chay/co_meo.png","mo_ta":"Cỏ mèo ngất ngây.","ngay":"2023-11-07 09:54:57"},
+    {"id":"4","ten_sp":"Xúc xích phô mai Bowwow","slug":"xuc-xich","gia":"20000","hinh":"images/sp_ban_chay/Bowwow_cho.jpg","mo_ta":"Xúc xích thơm ngon cho chó.","ngay":"2023-11-07 09:54:57"},
+    {"id":"5","ten_sp":"Thức ăn hạt mềm hữu cơ thịt Cừu Origi-7","slug":"hat-cho","gia":"250000","hinh":"images/sp_ban_chay/hat_Origi-7.png","mo_ta":"Hạt thức ăn dành cho những chú cún.","ngay":"2023-11-07 09:54:57"},
+    {"id":"6","ten_sp":"PEDIGREE Puppy Vị Trứng Sữa","slug":"banh","gia":"211000","hinh":"images/sp_ban_chay/Trung_Sua.png","mo_ta":"Bánh trứng sữa thơm ngon cho chó.","ngay":"2023-11-07 09:54:57"},
+    {"id":"7","ten_sp":"Thức ăn mèo vị cá ngừ Minino Tuna","slug":"thuc-an-hat-vi-cangu","gia":"42000","hinh":"images/sp_ban_chay/Minino_Tura.png","mo_ta":"Thức ăn vị cá ngừ cho mèo.","ngay":"2023-11-07 09:54:57"},
+    {"id":"8","ten_sp":"Bánh Jerky hỗn hợp","slug":"jerky","gia":"115000","hinh":"images/sp_ban_chay/Jerky.jpg","mo_ta":"Sẻn súc cát.","ngay":"2023-11-07 09:54:57"},
+    {"id":"9","ten_sp":"Xẻng xúc cát Ci-ao","slug":"sen","gia":"25000","hinh":"images/sp_ban_chay/xẻng_cat.png","mo_ta":"Túi tiện lợi để mang thức ăn cho chó.","ngay":"2023-11-07 09:54:57"},
+    {"id":"10","ten_sp":"Dầu tắm khô Joypet dành cho chó","slug":"dau-tam","gia":"157000","hinh":"images/sp_ban_chay/dau_tam.png","mo_ta":"Dầu tắm thơm cho chó.","ngay":"2023-11-07 09:54:57"},
+    {"id":"11","ten_sp":"Khay vệ sinh lưới cho chó","slug":"khay-ve-sinh","gia":"279000","hinh":"images/sp_ban_chay/khay_vs.png","mo_ta":"Khay vệ sinh cho chó mèo.","ngay":"2023-11-07 09:54:57"},
+    {"id":"12","ten_sp":"Vòng cổ cho thú cưng","slug":"vong","gia":"22000","hinh":"images/sp_ban_chay/vong_co.png","mo_ta":"Vòng đeo cổ cho chó mèo nhiều màu sắc.","ngay":"2023-11-07 09:54:57"},
+    {"id":"13","ten_sp":"Balo thú cưng phi hành gia","slug":"balo","gia":"550000","hinh":"images/sp_ban_chay/balo.png","mo_ta":"Balo tiện lợi đem cho mèo ra ngoài.","ngay":"2023-11-07 09:54:57"},
+    {"id":"14","ten_sp":"Bình uống nước cho chó mèo","slug":"binh-uong-nuoc","gia":"90000","hinh":"images/sp_ban_chay/binh_nc.png","mo_ta":"Bình uống nước cho chó mèo đi du lịch.","ngay":"2023-11-07 09:54:57"},
+    {"id":"15","ten_sp":"Bát ăn cơm cho chó mèo","slug":"bat-com","gia":"60000","hinh":"images/sp_ban_chay/bat_an.png","mo_ta":"Bát ăn cơm xin xắn cho chó mèo.","ngay":"2023-11-07 09:54:57"},
+    {"id":"16","ten_sp":"Bàn chải lông chó mèo","slug":"Ban-chai","gia":"206000","hinh":"images/sp_ban_chay/luot_chai.png","mo_ta":"Bàn chảy lông rụng cho chó mèo.","ngay":"2023-11-07 09:54:57"},
+    {"id":"17","ten_sp":"Nệm giường chó mèo","slug":"nem","gia":"200000","hinh":"images/sp_ban_chay/nem.jpg","mo_ta":"Bàn chải chuyên dụng cho chó.","ngay":"2023-11-07 09:54:57"},
+    {"id":"18","ten_sp":"Đồ chơi đùi gà bông","slug":"dui-ga-bong","gia":"30000","hinh":"images/sp_ban_chay/dui_ga.png","mo_ta":"Đồ chơi đùi gà bông cho mèo.","ngay":"2023-11-07 09:54:57"},
+    {"id":"19","ten_sp":"Trụ cào hình trứng và dâu bé","slug":"tru-cao","gia":"1500000","hinh":"images/sp_ban_chay/tru_cao.png","mo_ta":"Trụ cào cho mèo rất thích và cute.","ngay":"2023-11-07 09:54:57"},
+    {"id":"20","ten_sp":"Đồ chơi chùm lông gà","slug":"long-ga","gia":"19000","hinh":"images/sp_ban_chay/long_ga.png","mo_ta":"Chùm lông gà cho mèo chơi đùa.","ngay":"2023-11-07 09:54:57"}
+  ],    
+
+  "boss_an_ngon": [
+    {"id":"1","ten_boss":"Thuốc trị ve, bọ chét cho chó Nexgard 2-4kg","slug":"thuoc-tri-ve","mo_ta":"Thuốc chị bọ, ve, rận cho chó con.","gia":"170000","hinh":"images/boss_an_ngon/thuoc_tri_ve.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"2","ten_boss":"Thuốc trị ve, bọ chét cho chó Nexgard trên 10kg","slug":"thuoc-tri-ve-1","mo_ta":"Thuốc chị bọ, ve, rận cho chó trưởng thành.","gia":"310000","hinh":"images/boss_an_ngon/thuoc_tri_ve1.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"3","ten_boss":"Thuốc trị ve, bọ chét cho chó Nexgard trên 25kg","slug":"thuoc-tri-ve-2","mo_ta":"Thuốc chị bọ, ve, rận cho chó vừa mới lớn.","gia":"230000","hinh":"images/boss_an_ngon/thuoc_tri_ve2.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"4","ten_boss":"Thức ăn hạt Me-O Kitten","slug":"Me-O","mo_ta":"Thức ăn Me-O thơm ngon, càng ăn càng mê.","gia":"45000","hinh":"images/boss_an_ngon/pedigree_adult.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"5","ten_boss":"Pedigree Adult vị thịt bò rau củ 500g","slug":"Pedigree-Adult","mo_ta":"Pedigree Adult dành cho chó.","gia":"45000","hinh":"images/boss_an_ngon/Me-O.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"6","ten_boss":"Thức ăn hạt mềm hữu cơ thịt Cừu Origi-7","slug":"Origi-7","mo_ta":"Thức ăn hạt mềm hữu cơ thịt Cừu thơm ngon.","gia":"45000","hinh":"images/boss_an_ngon/Origi_7.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"7","ten_boss":"PEDIGREE Puppy Vị trứng Sữa 2,7kg","slug":"pedigree puppy","mo_ta":"PEDIGREE Puppy Vị trứng Sữa dành cho chó.","gia":"215000","hinh":"images/boss_an_ngon/ped_vi_trung.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"8","ten_boss":"Pate Hug cho cún 120g","slug":"pate","mo_ta":"Pate Hug dành cho chó.","gia":"19000","hinh":"images/boss_an_ngon/pate_hug.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"9","ten_boss":"Ganador Puppy Egg Milk","slug":"ganador","mo_ta":"Ganador Puppy Egg Milk(sữa dành cho chó).","gia":"40000","hinh":"images/boss_an_ngon/sua_cho.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"10","ten_boss":"Thức ăn hạt Royal Cannin Poodle Puppy","slug":"royal cannin","mo_ta":"Thức ăn hạt Royal Cannin Poodle Puppy dàn cho chó.","gia":"175000","hinh":"images/boss_an_ngon/royal_cannin.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"11","ten_boss":"Thức ăn hạt Ganado Adult Vị Cừu và Gạo","slug":"ganado","mo_ta":"Thức ăn hạt Ganado Adult Vị Cừu và Gạo dành cho chó.","gia":"210000","hinh":"images/boss_an_ngon/pate_monge.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"12","ten_boss":"Thức ăn pate Monge Fresh & Monge Fruit 100g","slug":"Monge_Fresh","mo_ta":"Thức ăn pate Monge Fresh & Monge Fruit 100g dành cho chó.","gia":"29000","hinh":"images/boss_an_ngon/ganado_adult.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"13","ten_boss":"Thức ăn Hạt Catsrang Kitten","slug":"Catsrang_Kitten","mo_ta":"Thức ăn Hạt Catsrang Kitten dành cho mèo con.","gia":"75000","hinh":"images/boss_an_ngon/cats.jpg","ngay":"2023-11-07 09:54:57"},
+    {"id":"14","ten_boss":"Thức ăn hạt Catsrang Adult","slug":"Catsrang_Adult","mo_ta":"Thức ăn hạt Catsrang Adult dành cho mèo.","gia":"245000","hinh":"images/boss_an_ngon/cats_adult.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"15","ten_boss":"Thức ăn hạt mềm Zenith Adult","slug":"Zenith_Adult","mo_ta":"Thức ăn hạt mềm Zenith Adult cho chó.","gia":"240000","hinh":"images/boss_an_ngon/zenith1.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"16","ten_boss":"Zenith chó con","slug":"zenith","mo_ta":"Thức ăn zenith dành cho chó con.","gia":"240000","hinh":"images/boss_an_ngon/zenith2.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"17","ten_boss":"Thức ăn cho mèo vị cá ngừ Minino Tuna","slug":"Minino_Tuna","mo_ta":"Thức ăn cho mèo vị cá ngừ Minino Tuna dành cho mèo.","gia":"42000","hinh":"images/boss_an_ngon/minino_tuna.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"18","ten_boss":"Minino Hải Sản","slug":"minino_hs","mo_ta":"Minino hải sản dành cho mèo.","gia":"38000","hinh":"images/boss_an_ngon/minino_hs.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"19","ten_boss":"Sữa bột cho chó Predogen 400g","slug":"sua_bot","mo_ta":"Sữa bột cho chó Predogen 400g dành cho chó.","gia":"195000","hinh":"images/boss_an_ngon/sua_bot.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"20","ten_boss":"Pate nekko","slug":"nekko","mo_ta":"Pate nekko dành cho mèo con 70g.","gia":"70000","hinh":"images/boss_an_ngon/nekko.jpg","ngay":"2023-11-07 09:54:57"}
+  ],
+
+  "boss_thoi_thuong": [
+    {"id":"1","boss_tt":"Trụ cào hình hoa","slug":"tru-cao","mo_ta":"Trụ cào hình hoa có ổ nằm cho bé mèo.","gia":"850000","hinh":"images/boss_thoi_thuong/tru_cao.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"2","boss_tt":"Trụ cào móng cơ bản","slug":"tru-cao-cb","mo_ta":"Trụ cào móng cho mèo.","gia":"195000","hinh":"images/boss_thoi_thuong/tru_cao_cb.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"3","boss_tt":"Trụ cào hình trứng","slug":"tru-cao-trung","mo_ta":"Trụ cào hình trứng và dâu cho bé mèo.","gia":"1100000","hinh":"images/boss_thoi_thuong/tcht.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"4","boss_tt":"Tâm lót chuồng","slug":"lot-chuong","mo_ta":"Tâm lót chuồng cho thú cưng.","gia":"20000","hinh":"images/boss_thoi_thuong/lc.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"5","boss_tt":"Balo thú cưng","slug":"balo","mo_ta":"Balo thú cưng trong suốt.","gia":"400000","hinh":"images/boss_thoi_thuong/balo.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"6","boss_tt":"Balo thú cưng hộp vuông","slug":"balov","mo_ta":"Balo mang thú cưng hộp vuông hình phi hành gia.","gia":"550000","hinh":"images/boss_thoi_thuong/balo2.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"7","boss_tt":"Bình uống nước cho thú cưng","slug":"binh-uong-nuoc","mo_ta":"Bình uống nước đi du lịch cho chó mèo New Travel 500ml.","gia":"90000","hinh":"images/boss_thoi_thuong/bun.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"8","boss_tt":"Lồng thú cưng","slug":"long","mo_ta":"Lồng sơn tĩnh điện vân đá chống rỉ sét cho chó mèo.","gia":"270000","hinh":"images/boss_thoi_thuong/long.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"9","boss_tt":"Xẻng xúc cát","slug":"xeng","mo_ta":"Xẻng xúc cát Ci-ao.","gia":"25000","hinh":"images/boss_thoi_thuong/xeng.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"10","boss_tt":"Bàn ăn","slug":"ban-an","mo_ta":"Bàn ăn khay nhựa tiện dụng cho chó size M.","gia":"340000","hinh":"images/boss_thoi_thuong/ba.jpg","ngay":"2023-11-07 09:54:57"},
+    {"id":"11","boss_tt":"Trụ cào móng 3 tầng","slug":"tru3t","mo_ta":"Trụ cào móng mèo 3 tầng hình động vật cao 65cm.","gia":"750000","hinh":"images/boss_thoi_thuong/tru3t.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"12","boss_tt":"Đồ chơi con cá","slug":"do-choi-con-ca","mo_ta":"Đồ chơi con cá lớn 40cm.","gia":"90000","hinh":"images/boss_thoi_thuong/dccc.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"13","boss_tt":"Đồ chơi chùm lông","slug":"dc-cl","mo_ta":"Đồ chơi chùm lông gà cho bé mèo.","gia":"19000","hinh":"images/boss_thoi_thuong/dccl.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"14","boss_tt":"Bát ăn hình trái bắp","slug":"bat-an-tb","mo_ta":"Bát ăn đơn hình trái bắp.","gia":"50000","hinh":"images/boss_thoi_thuong/ba2.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"15","boss_tt":"Bát ăn hình trái dâu","slug":"bat-an-td","mo_ta":"Bát ăn cơm ngon hình trái dâu.","gia":"50000","hinh":"images/boss_thoi_thuong/batd.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"16","boss_tt":"Bát ăn hình trái đào","slug":"bat-an-tđ","mo_ta":"Bát ăn đơn hình trái đào.","gia":"50000","hinh":"images/boss_thoi_thuong/batđ.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"17","boss_tt":"Bát ăn hình trái thơm","slug":"bat-an-tt","mo_ta":"Bát ăn đơn hình trái thơm.","gia":"50000","hinh":"images/boss_thoi_thuong/batt.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"18","boss_tt":"Vòng cổ","slug":"vong-co","mo_ta":"Vòng cổ có chuông cho thú cưng.","gia":"22000","hinh":"images/boss_thoi_thuong/vong.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"19","boss_tt":"Dây dắt chó","slug":"day-dat","mo_ta":"Dây dắt Teddy cho thú cưng.","gia":"85000","hinh":"images/boss_thoi_thuong/dt.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"20","boss_tt":"Vòng cổ hoa","slug":"vong-hoa","mo_ta":"Vòng cổ hoa thổ cẩm cho thú cưng.","gia":"45000","hinh":"images/boss_thoi_thuong/vc.jpg","ngay":"2023-11-07 09:54:57"}
+  ],
+
+  "boss_giau_co": [
+    {"id":"1","boss_gc":"Nhà vệ sinh cao cấp","slug":"nhavs","mo_ta":"Nhà vệ sinh cao cấp có nắp đậy hình vỏ sò cho mèo.","gia":"350000","hinh":"images/boss_giau_co/nvs.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"2","boss_gc":"Thau cát","slug":"thau-cat","mo_ta":"Thau cát đơn sắc cho mèo hình ovan.","gia":"250000","hinh":"images/boss_giau_co/tc.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"3","boss_gc":"Bàn chải tròn loại thường","slug":"bclt","mo_ta":"Bàn chải tròn răng tròn HS.","gia":"181000","hinh":"images/boss_giau_co/bclt.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"4","boss_gc":"Bàn chải tròn cao cấp","slug":"bccc","mo_ta":"Bàn chải tròn 2 mặt HS cho chó mèo.","gia":"235000","hinh":"images/boss_giau_co/bccc.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"5","boss_gc":"Lượt chải bò chét","slug":"lcbc","mo_ta":"Lược chải bò chét ND lớn cho chó mèo.","gia":"150000","hinh":"images/boss_giau_co/lcbc.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"6","boss_gc":"Lượt bấm tách cho các bé","slug":"lbt","mo_ta":"Lượt bấm tách chữ nhật Pakeway cho các bé.","gia":"140000","hinh":"images/boss_giau_co/lbt.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"7","boss_gc":"Lượt bấm chải","slug":"lbc","mo_ta":"Lượt bấm chải lông T10 Pakeway cho các bé.","gia":"140000","hinh":"images/boss_giau_co/lbc.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"8","boss_gc":"Set cây lăn làm sạch lông","slug":"lan-long","mo_ta":"Set cây lăn làm sạch lông chó mèo trên quần áo.","gia":"45000","hinh":"images/boss_giau_co/cl.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"9","boss_gc":"Khăn giấy ướt","slug":"kgu","mo_ta":"Khăn giấy ướt Kháng khuẩn, Tắm khô lông cho chó mèo.","gia":"60000","hinh":"images/boss_giau_co/kgu.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"10","boss_gc":"Xẻng xúc cát","slug":"xeng","mo_ta":"Xẻng xúc cát vệ sinh cho mèo.","gia":"25000","hinh":"images/boss_giau_co/xeng.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"11","boss_gc":"Túi bao tử","slug":"tui","mo_ta":"Túi bao tử cho bé cún và mèo.","gia":"35000","hinh":"images/boss_giau_co/tui.png","ngay":"2023-11-07 09:54:57"}
+  ],
+
+  "boss_xinh_dep": [
+    {"id":"1","boss_xd":"Dầu tắm dưỡng lông","slug":"dtdl","mo_ta":"Dầu tắm chuyên dưỡng lông Spa.","gia":"450000","hinh":"images/boss_xd/dtdl.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"2","boss_xd":"Cát","slug":"cat","mo_ta":"Kít cát đậu nành Lavender.","gia":"200000","hinh":"images/boss_xd/cat.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"3","boss_xd":"Dầu tắm khô","slug":"dau-tam-kho","mo_ta":"Dầu tắm khô JoyPet dành cho chó.","gia":"157000","hinh":"images/boss_xd/dtk.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"4","boss_xd":"Tã lót","slug":"ta","mo_ta":"Tả lót khử mùi nước tiểu Pet.","gia":"210000","hinh":"images/boss_xd/ta.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"5","boss_xd":"Dầu gội trị ve","slug":"dau-goi-tri-ve","mo_ta":"Dầu gội trị ve cho chó Budle.","gia":"190000","hinh":"images/boss_xd/dgtv.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"6","boss_xd":"Dầu gội trị viêm da","slug":"dau-goi-tri-viem","mo_ta":"Dầu gội trị viêm da cho chó Budle.","gia":"190000","hinh":"images/boss_xd/dgtv2.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"7","boss_xd":"Dầu gội trị gàu","slug":"dau-goi-tri-gau","mo_ta":"Dầu gội trị gàu cho chó Budle.","gia":"190000","hinh":"images/boss_xd/dgtg.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"8","boss_xd":"Xịt khử mùi","slug":"xit-khu-mui","mo_ta":"Xịt khử mùi dưỡng lông Bady Powder.","gia":"150000","hinh":"images/boss_xd/xkm.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"9","boss_xd":"Dầu gội cho chó","slug":"dau-goi","mo_ta":"Dầu gội cho chó Budle.","gia":"200000","hinh":"images/boss_xd/dgcc.jpg","ngay":"2023-11-07 09:54:57"},
+    {"id":"10","boss_xd":"Dầu gội và xả chó","slug":"goi-xa","mo_ta":"Dầu gội và xả cho chó con Budle.","gia":"200000","hinh":"images/boss_xd/gx.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"11","boss_xd":"Dầu gội và xả lông trắng","slug":"goi-xa-long-trang","mo_ta":"Dầu gội và xả cho chó lông trắng Budle.","gia":"200000","hinh":"images/boss_xd/gx.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"12","boss_xd":"Dung dịch vệ sinh mắt","slug":"ddvs-mat","mo_ta":"Dung dịch vệ sinh mắt cho chó Budle.","gia":"100000","hinh":"images/boss_xd/ddvsm.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"13","boss_xd":"Dung dịch vệ sinh tai","slug":"ddvs-tai","mo_ta":"Dung dịch vệ sinh tai cho chó Budle.","gia":"100000","hinh":"images/boss_xd/ddvst.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"14","boss_xd":"Xịt khử mùi","slug":"xkm","mo_ta":"Xịt dùng để diệt khuẩn và khử mùi.","gia":"185000","hinh":"images/boss_xd/xkm2.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"15","boss_xd":"Dầu tắm YU cho chó mèo","slug":"dau-tam","mo_ta":"Dầu tắm YU cho chó mèo thơm dai dưỡng lông.","gia":"370000","hinh":"images/boss_xd/yu.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"16","boss_xd":"Sửa tắm khô","slug":"stk","mo_ta":"Sửa tắm khô SOS dạng mouse cho cún.","gia":"130000","hinh":"images/boss_xd/stk.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"17","boss_xd":"Dầu tắm khô","slug":"dtk","mo_ta":"Dầu tắm khô Joypet dành cho mèo.","gia":"185000","hinh":"images/boss_xd/dtk2.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"18","boss_xd":"Cát Cature","slug":"Cature","mo_ta":"Cát Cature dành cho mèo.","gia":"155000","hinh":"images/boss_xd/cat2.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"19","boss_xd":"Tã quần","slug":"ta-quan","mo_ta":"Tã quần Dono cho chó đực.","gia":"135000","hinh":"images/boss_xd/tq.png","ngay":"2023-11-07 09:54:57"},
+    {"id":"20","boss_xd":"Bỉm quần","slug":"bim","mo_ta":"Bỉm quần Soft cho chó cái và đực.","gia":"90000","hinh":"images/boss_xd/tb.png","ngay":"2023-11-07 09:54:57"}
+  ],
+
+  "khoan_khac_thu_cung": [
+    {
+        "id": "1",
+        "hinh": "images/kktc/1.jpg"
+        
+    },
+    {
+        "id": "2",
+        "hinh": "images/kktc/2.jpg"
+
+    },
+    {
+        "id": "3",
+        "hinh": "images/kktc/3.jpg"
+    },
+    {
+        "id": "4",
+        "hinh": "images/kktc/4.jpg"
+    },
+    {
+        "id": "5",
+    
+        "hinh": "images/kktc/5.png"
+    },
+    {
+        "id": "6",
+     
+        "hinh": "images/kktc/6.jpg"
+    },
+    {
+        "id": "7",
+        "hinh": "images/kktc/7.png"
+    },
+    {
+        "id": "8",
+        "hinh": "images/kktc/8.jpg"
+    },
+    {
+        "id": "9",
+    
+        "hinh": "images/kktc/9.jpg"
+
+    },
+    {
+        "id": "10",
+        "hinh": "images/kktc/10.jpg"
+    },
+    {
+      "id": "11",
+      "hinh": "images/kktc/11.jpg"
+  },
+  {
+    "id": "12",
+    "hinh": "images/kktc/12.jpg"
+},
+{
+  "id": "13",
+  "hinh": "images/kktc/13.jpg"
+},
+{
+  "id": "14",
+  "hinh": "images/kktc/14.png"
+},
+
+{
+  "id": "15",
+  "hinh": "images/kktc/15.jpg"
+}
+    
+  ]
+}

@@ -1,0 +1,482 @@
+{
+    "pate" : [
+        {
+            "id": "1","name": "Pate Hug cho cún 120g","price": "19000","image": "images/pate/1.png"
+        },
+        {
+            "id": "2","name": "Thức ăn pate Monge Fresh & Monge Fruit 100g","price": "29000","image": "images/pate/2.png"
+        },
+        {
+            "id": "3","name": "Pate hỗn hợp gà Kings lon 380g","price": "55000","image": "images/pate/3.png"
+        },
+        {
+            "id": "4","name": "Pate mèo vị cá ngừ dạng thạch NEKKO 70g","price": "20000","image": "images/pate/4.png"
+        },
+        {
+            "id": "5","name": "Pate Mèo vị cá ngừ rắc cá bào KATSUOBUSHI dạng thạch NEKKO 70g","price": "20000","image": "images/pate/5.jpg"
+        },
+        {
+            "id": "6","name": "Pate Mèo vị cá ngừ rắc cá cơm sữa SHIRASU dạng thạch NEKKO 70g","price": "20000","image": "images/pate/6.png"
+        },
+        {
+            "id": "7","name": " Thức ăn cho chó vị thịt gà Moochie 85g loại gói","price": "22000","image": "images/pate/7.png"
+        },
+        {
+            "id": "8","name": "Pate Mèo vị cá ngừ rắc cá hồi kèm nước sốt hiệu NEKKO 70g","price": "20000","image": "images/pate/8.jpg"
+        },
+        {
+            "id": "9","name": "Pate Mèo vị cá ngừ rắc cá ngừ kèm nước sốt hiệu NEKKO 70g","price": "20000","image": "images/pate/9.png"
+        },
+        {
+            "id": "10","name": "Pate Mèo vị cá ngừ rắc cá tráp kèm nước sốt hiệu NEKKO 70g","price": "20000","image": "images/pate/10.jpg"
+        },
+        {
+            "id": "11","name": "Pate Snappy Tom Premium vị cá ngừ và dứa 70g","price": "23000","image": "images/pate/11.png"
+        },
+        {
+            "id": "12","name": "Pate Mèo vị cá ngừ rắc phô mai dạng thạch NEKKO 70g","price": "20000","image": "images/pate/12.png"
+        },
+        {
+            "id": "13","name": "Pate Mèo vị cá ngừ rắc thanh cua KANIKAMA dạng thạch NEKKO 70g","price": "20000","image": "images/pate/13.jpg"
+        },
+        {
+            "id": "14","name": "Pate Mèo vị cá ngừ rắc thịt gà kèm nước sốt hiệu NEKKO 70g","price": "20000","image": "images/pate/14.png"
+        },
+        {
+            "id": "15","name": "Pate Mèo vị cá ngừ rắc tôm kèm nước sốt hiệu NEKKO 70g","price": "20000","image": "images/pate/15.jpg"
+        },
+        {
+            "id": "16","name": "Pate Mèo vị cá ngừ rắc tôm và sò điệp dạng thạch NEKKO 70g","price": "20000","image": "images/pate/16.png"
+        },
+        {
+            "id": "17","name": "Pate Mèo vị cá ngừ rắc trứng hấp và rong biển dạng thạch NEKKO 70g","price": "20000","image": "images/pate/17.png"
+        },
+        {
+            "id": "18","name": "Pate Aatas Cat vị Cá Ngừ & Bí Đỏ_80g","price": "25000","image": "images/pate/18.png"
+        },
+        {
+            "id": "19","name": "Pate Nekko cho mèo con 70g","price": "20000","image": "images/pate/19.jpg"
+        },
+        {
+            "id": "20","name": "Pate KC Cá ngừ Phô mai 70g","price": "28000","image": "images/pate/20.png"
+        }
+    ],
+   "thuc_an_hat": [
+    {
+        "id": "1",
+        "name_thuc_an": "Thức Ăn Hạt Mèo Whiskas Thịt Gà 1.1kg",
+        "price": "150000",
+        "image": "images/thuc_an_hat/thuc_an1.png"
+    },
+    {
+        "id": "2",
+        "name_thuc_an": "Thức Ăn Hạt Me-O Adult vị Cá Biển 3kg",
+        "price": "450000",
+        "image": "images/thuc_an_hat/thuc_an2.png"
+    },
+    {
+        "id": "3",
+        "name_thuc_an": "Thức Ăn Hạt Mèo Adult vị Cá Ngừ 7kg",
+        "price": "890000",
+        "image": "images/thuc_an_hat/thuc_an3.png"
+    },
+    {
+        "id": "4",
+        "name_thuc_an": "Thức Ăn Hạt Mèo Whiskas Vị Cá Thu 1.2kg",
+        "price": "160000",
+        "image": "images/thuc_an_hat/thuc_an4.png"
+    },
+    {
+        "id": "5",
+        "name_thuc_an": "Thức Ăn Hạt Chó Con Ganador Vị Gà 15kg",
+        "price": "1850000",
+        "image": "images/thuc_an_hat/thuc_an5.png"
+    },
+    {
+        "id": "6",
+        "name_thuc_an": "Thức Ăn Hạt Me-O Kitten vị Cá 3kg",
+        "price": "450000",
+        "image": "images/thuc_an_hat/thuc_an6.png"
+    },
+    {
+        "id": "7",
+        "name_thuc_an": "Thức Ăn Hạt Ganador Adult Vị Cá Ngừ 15kg",
+        "price": "1900000",
+        "image": "images/thuc_an_hat/thuc_an7.png"
+    },
+    {
+        "id": "8",
+        "name_thuc_an": "Thức Ăn Hạt Royal Canin Mini Starter 1kg",
+        "price": "279000",
+        "image": "images/thuc_an_hat/thuc_an8.png"
+    },
+    {
+        "id": "9",
+        "name_thuc_an": "Thức Ăn Hạt Ganador Puppy Vị Gà 10kg",
+        "price": "780000",
+        "image": "images/thuc_an_hat/thuc_an9.png"
+    },
+    {
+        "id": "10",
+        "name_thuc_an": "Thức Ăn Hạt Pedigree Puppy Milk 500g",
+        "price": "48000",
+        "image": "images/thuc_an_hat/thuc_an10.png"
+    },
+    {
+        "id": "11",
+        "name_thuc_an": "Thức Ăn Hạt Royal Canin Persian Adult 2kg",
+        "price": "879000",
+        "image": "images/thuc_an_hat/thuc_an11.png"
+    },
+    {
+        "id": "12",
+        "name_thuc_an": "Thức Ăn Hạt Whiskas vị Cá Hồi 7kg",
+        "price": "950000",
+        "image": "images/thuc_an_hat/thuc_an12.png"
+    },
+    {
+        "id": "13",
+        "name_thuc_an": "Thức Ăn Hạt Me-O Kitten vị Gà 2.5kg",
+        "price": "400000",
+        "image": "images/thuc_an_hat/thuc_an13.png"
+    },
+    {
+        "id": "14",
+        "name_thuc_an": "Thức Ăn Hạt Cat Eye Adult vị Cá 1kg",
+        "price": "75000",
+        "image": "images/thuc_an_hat/thuc_an14.png"
+    },
+    {
+        "id": "15",
+        "name_thuc_an": "Thức Ăn Hạt Royal Canin Kitten Persian 2kg",
+        "price": "849000",
+        "image": "images/thuc_an_hat/thuc_an15.png"
+    },
+    {
+        "id": "16",
+        "name_thuc_an": "Thức Ăn Hạt Cat Eye Adult 1kg",
+        "price": "59000",
+        "image": "images/thuc_an_hat/thuc_an16.png"
+    },
+    {
+        "id": "17",
+        "name_thuc_an": "Thức Ăn Hạt Me-O Kitten vị Cá 1kg",
+        "price": "160000",
+        "image": "images/thuc_an_hat/thuc_an17.jpg"
+    },
+    {
+        "id": "18",
+        "name_thuc_an": "Thức Ăn Hạt Ganador Adult vị Cá 10kg",
+        "price": "1090000",
+        "image": "images/thuc_an_hat/thuc_an18.png"
+    },
+    {
+        "id": "19",
+        "name_thuc_an": "Thức Ăn Hạt Whiskas vị Cá Biển 5kg",
+        "price": "520000",
+        "image": "images/thuc_an_hat/thuc_an19.png"
+    },
+    {
+        "id": "20",
+        "name_thuc_an": "Thức Ăn Hạt Royal Canin Mother & Baby 4kg",
+        "price": "1890000",
+        "image": "images/thuc_an_hat/thuc_an20.png"
+    }
+],
+    "sup_thuong": [
+    {
+        "id": "1",
+        "name_st": "Bánh que gặm cho chó cưng da bò thơm miệng tự nhiên 10 cây",
+        "price": "35000",
+        "image": "images/sup_thuong/st1.jpg"
+    },
+    {
+        "id": "2",
+        "name_thuc_an": "Xúc xích phô mai Bowwow 50g",
+        "price": "20000",
+        "image": "images/sup_thuong/st2.jpg"
+    },
+    {
+        "id": "3",
+        "name_thuc_an": "Thịt cá hồi hun khói Smoked Salmon Meat Stick 70g",
+        "price": "65000",
+        "image": "images/sup_thuong/st3.jpg"
+    },
+    {
+        "id": "4",
+        "name_thuc_an": "Bánh khoai lang và collagen que Bowwow 70g",
+        "price": "70000",
+        "image": "images/sup_thuong/st4.jpg"
+    },
+    {
+        "id": "5",
+        "name_thuc_an": "Bowwow Thịt heo cuộn thanh sữa 80g",
+        "price": "75000",
+        "image": "images/sup_thuong/st5.png"
+    },
+    {
+        "id": "6",
+        "name_thuc_an": "Phô mai viên Bowwow ",
+        "price": "70000",
+        "image": "images/sup_thuong/st6.jpg"
+    },
+    {
+        "id": "7",
+        "name_thuc_an": "Bánh Jerky hỗn hợp ",
+        "price": "115000",
+        "image": "images/sup_thuong/st7.jpg"
+    },
+    {
+        "id": "8",
+        "name_thuc_an": "Bánh thưởng hình xương xanh thơm miệng 10 cây",
+        "price": "35000",
+        "image": "images/sup_thuong/st8.jpg"
+    },
+    {
+        "id": "9",
+        "name_thuc_an": "Bánh thưởng hình xương xanh thơm miệng 22 cây",
+        "price": "72000",
+        "image": "images/sup_thuong/st9.png"
+    },
+    {
+        "id": "10",
+        "name_thuc_an": "Bánh que da Bò thơm miệng size lớn 5 cây",
+        "price": "55000",
+        "image": "images/sup_thuong/st10.jpg"
+    },
+    {
+        "id": "11",
+        "name_thuc_an": "Ciao Sốt dinh dưỡng cho mèo",
+        "price": "40000",
+        "image": "images/sup_thuong/st11.jpg"
+    },
+    {
+        "id": "12",
+        "name_thuc_an": "Bánh thưởng hình xương xanh thơm miệng 55 cây",
+        "price": "135000",
+        "image": "images/sup_thuong/st12.jpg"
+    },
+    {
+        "id": "13",
+        "name_thuc_an": "TBánh que da Bò thơm miệng size lớn 30 cây",
+        "price": "105000",
+        "image": "images/sup_thuong/st13.jpg"
+    },
+    {
+        "id": "14",
+        "name_thuc_an": "Bánh xương xoắn da bò cho chó tự nhiên size nhỏ 5 cây",
+        "price": "35000",
+        "image": "images/sup_thuong/st14.png"
+    },
+    {
+        "id": "15",
+        "name_thuc_an": "Bánh xương xoắn da bò cho chó tự nhiên size lớn 2 cây",
+        "price": "35000",
+        "image": "images/sup_thuong/st15.jpg"
+    },
+    {
+        "id": "16",
+        "name_thuc_an": "Bánh xương gặm da heo hương gà cho chó size nhỏ 5 cây 70g ",
+        "price": "35000",
+        "image": "images/sup_thuong/st16.jpg"
+    },
+    {
+        "id": "17",
+        "name_thuc_an": "Bánh xương gặm da heo hương gà cho chó size lớn 2 cây",
+        "price": "35000",
+        "image": "images/sup_thuong/st17.jpg"
+    },
+    {
+        "id": "18",
+        "name_thuc_an": "Bánh xương nơ hương gà dành cho chó cưng 10 cây",
+        "price": "65000",
+        "image": "images/sup_thuong/st18.jpg"
+    },
+    {
+        "id": "19",
+        "name_thuc_an": "Bánh xương nơ hương gà dành cho chó cưng 5 cây",
+        "price": "61000",
+        "image": "images/sup_thuong/st19.jpg"
+    },
+    {
+        "id": "20",
+        "name_thuc_an": "Bánh xương nơ hương sữa dành cho chó cưng 10 cây",
+        "price": "62000",
+        "image": "images/sup_thuong/st20.jpg"
+    }
+],
+"thuc_pham_cn": [
+    {
+        "id": "1", "name_tp": "Xịt chuyên trị nấm, vảy gàu - Fungikür Spray 50ml", "price": "150000", "image":"images/tpcn/tp1.png"
+    },
+    {
+        "id": "2", "name_tp": "Sữa bột cho mèo Precaten 110g", "price": "50000", "image":"images/tpcn/tp2.png"
+    },
+    {
+        "id": "3", "name_tp": "Sữa bột cho chó Predogen 110g", "price": "55000", "image":"images/tpcn/tp3.png"
+    },
+    {
+        "id": "4", "name_tp": "Sữa bột cho chó Predogen 400g", "price": "195000", "image":"images/tpcn/tp4.png"
+    },
+    {
+        "id": "5", "name_tp": "Sữa bột cho thú cưng Biomilk sữa dành cho chó và mèo 100g", "price": "35000", "image":"images/tpcn/tp5.jpg"
+    },
+    {
+        "id": "6", "name_tp": "Thuốc xổ giun Drontal cho bé cún", "price": "50000", "image":"images/tpcn/tp6.jpg"
+    },
+    {
+        "id": "7", "name_tp": "Thuốc Tẩy Giun Cho Mèo Drontal For Cat 1 Viên", "price": "50000", "image":"images/tpcn/tp7.jpg"
+    },
+    {
+        "id": "8", "name_tp": "Vita Hemo - Siro bổ sung sắt cho thú cưng", "price": "220000", "image":"images/tpcn/tp8.png"
+    },
+    {
+        "id": "9", "name_tp": "Sữa bột cho thú cưng Biomilk sữa dành cho chó và mèo 100g", "price": "150000", "image":"images/tpcn/tp1.png"
+    },
+    {
+        "id": "10", "name_tp": "Thuốc xổ giun Drontal cho bé cún", "price": "50000", "image":"images/tpcn/tp10.png"
+    },
+    {
+        "id": "11", "name_tp": "Thuốc Tẩy Giun Cho Mèo Drontal For Cat 1 Viên", "price": "50000", "image":"images/tpcn/tp11.png"
+    },
+    {
+        "id": "12", "name_tp": "Vita Hemo - Siro bổ sung sắt cho thú cưng", "price": "220000", "image":"images/tpcn/tp12.png"
+    },
+    {
+        "id": "13", "name_tp": "Men tiêu hóa Probisol - 5g", "price": "10000", "image":"images/tpcn/tp13.png"
+    },
+    {
+        "id": "14", "name_tp": "Nexgard Spectra Trị ve, bọ chét, giun tim, giun tròn", "price": "536000", "image":"images/tpcn/tp14.jpg"
+    },
+    {
+        "id": "15", "name_tp": "Thuốc nhỏ gáy trị ve,rận, bọ chét Frontline cho mèo", "price": "155000", "image":"images/tpcn/tp15.jpg"
+    }
+],
+"do_choi_dung_cu": [
+    {
+        "id": "1", "name_dcdc": "Đồ chơi đựng thức ăn cho chó", "price": "45000", "image":"images/dcdc/dc1.png"
+    },
+    {
+        "id": "2", "name_dcdc": "Trụ Cào móng mèo 3 Tầng hình động vật cao 65cm | Pet Station", "price": "750000", "image":"images/dcdc/dc2.png"
+    },
+    {
+        "id": "3", "name_dcdc": "Đồ chơi con cá lớn 40cm", "price": "90000", "image":"images/dcdc/dc3.png"
+    },
+    {
+        "id": "4", "name_dcdc": "Đồ chơi chùm lông gà cho bé mèo", "price": "19000", "image":"images/dcdc/dc4.png"
+    },
+    {
+        "id": "5", "name_dcdc": "Trụ cào hình hoa có ổ nằm cho bé mèo", "price": "850000", "image":"images/dcdc/dc5.png"
+    },
+    {
+        "id": "6", "name_dcdc": "Trụ cào móng cho mèo", "price": "195000", "image":"images/dcdc/dc6.png"
+    },
+    {
+        "id": "7", "name_dcdc": "Trụ cào hình trứng và dâu cho bé mèo", "price": "1100000", "image":"images/dcdc/dc7.png"
+    },
+    {
+        "id": "8", "name_dcdc": "Đồ chơi bóng tết thừng size M", "price": "28000", "image":"images/dcdc/dc8.png"
+    },
+    {
+        "id": "9", "name_dcdc": "Đồ chơi quả bóng", "price": "25000", "image":"images/dcdc/dc9.png"
+    },
+    {
+        "id": "10", "name_dcdc": "Đồ chơi đùi gà bông", "price": "30000", "image":"images/dcdc/dc10.png"
+    },
+    {
+        "id": "11", "name_dcdc": "Bàn chải tròn hai mặt HS - size S (gói) Doggyman", "price": "235000", "image":"images/dcdc/dc11.jpg"
+    },
+    {
+        "id": "12", "name_dcdc": "Bàn ăn khay nhựa tiện dụng cho chó size M", "price": "340000", "image":"images/dcdc/dc12.jpg"
+    },
+    {
+        "id": "13", "name_dcdc": "Bát ăn đơn hình trái bắp", "price": "50000", "image":"images/dcdc/dc13.png"
+    },
+    {
+        "id": "14", "name_dcdc": "Bát ăn đơn hình trái dâu", "price": "50000", "image":"images/dcdc/dc14.png"
+    },
+    {
+        "id": "15", "name_dcdc": "Bát ăn đơn hình trái đào", "price": "50000", "image":"images/dcdc/dc15.png"
+    },
+    {
+        "id": "16", "name_dcdc": "Bát ăn đơn hình trái thơm", "price": "50000", "image":"images/dcdc/dc16.png"
+    },
+    {
+        "id": "17", "name_dcdc": "Bàn chải tròn răng tròn HS Size S", "price": "181000", "image":"images/dcdc/dc17.png"
+    },
+    {
+        "id": "18", "name_dcdc": "Bàn chải tròn 2 mặt HS cho chó mèo", "price": "235000", "image":"images/dcdc/dc18.png"
+    },
+    {
+        "id": "19", "name_dcdc": "Lược chải bọ chét ND size lớn và trung cho chó mèo", "price": "150000", "image":"images/dcdc/dc19.png"
+    },
+    {
+        "id": "20", "name_dcdc": "Lược bấm tách chữ nhật Pakeway cho bé cún mèo", "price": "140000", "image":"images/dcdc/dc20.png"
+    }
+   
+],
+"phu_kien_ve_sinh": [
+    {
+          "id": "1", "name_pkvs": "Vòng cổ có chuông cho thú cưng", "price": "22000", "image":"images/pkvs/pv1.png"
+    },
+    {
+        "id": "2", "name_pkvs": "Tâm lót chuồng cho thú cưng", "price": "20000", "image":"images/pkvs/pv2.png"
+  },
+  {
+    "id": "3", "name_pkvs": "Túi bao tử cho bé cún và mèo", "price": "35000", "image":"images/pkvs/pv3.png"
+},
+{
+    "id": "4", "name_pkvs": "Nệm vuông Gấu trắng M", "price": "210000", "image":"images/pkvs/pv4.jpg"
+},
+{
+    "id": "5", "name_pkvs": "Nệm vuông chim Cánh cụt M", "price": "212000", "image":"images/pkvs/pv5.jpg"
+},
+{
+    "id": "6", "name_pkvs": "Nệm vuông Gấu trắng S", "price": "180000", "image":"images/pkvs/pv6.jpg"
+},
+{
+    "id": "7", "name_pkvs": "Nệm vuông chim Cánh cụt S", "price": "180000", "image":"images/pkvs/pv7.jpg"
+},
+{
+    "id": "8", "name_pkvs": "Nệm giường chim Cánh cụt", "price": "160000", "image":"images/pkvs/pv8.jpg"
+},
+{
+    "id": "9", "name_pkvs": "Nệm giường Gấu trắng", "price": "160000", "image":"images/pkvs/pv9.jpg"
+},
+{
+    "id": "10", "name_pkvs": "Balo mang thú cưng trong suốt", "price": "400000", "image":"images/pkvs/pv10.png"
+},
+{
+    "id": "11", "name_pkvs": "Dầu tắm chuyên dưỡng lông Spa by Tropiclean cho chó mèo", "price": "450000", "image":"images/pkvs/pv11.png"
+},
+{
+    "id": "12", "name_pkvs": "Xẻng vệ sinh Natural Gold (vàng)", "price": "40000", "image":"images/pkvs/pv12.jpg"
+},
+{
+    "id": "13", "name_pkvs": "Kít cát đậu nành Lavender 7kg", "price": "200000", "image":"images/pkvs/pv13.png"
+},
+{
+    "id": "14", "name_pkvs": "Xẻng xúc cát Ci-ao", "price": "25000", "image":"images/pkvs/pv14.png"
+},
+{
+    "id": "15", "name_pkvs": "Dầu tắm khô Joypet dành cho chó-200ml", "price": "150000", "image":"images/pkvs/pv15.png"
+},
+{
+    "id": "16", "name_pkvs": "Tâm lót siêu thấm dùng hàng ngày khử mùi 72h( trắng-đỏ-vàng-xanh )", "price": "300000", "image":"images/pkvs/pv16.jpg"
+},
+{
+    "id": "17", "name_pkvs": "Gel làm sạch răng miệng cho chó vị Bơ Đậu Phộng Fresh Breath", "price": "325000", "image":"images/pkvs/pv17.jpg"
+},
+{
+    "id": "18", "name_pkvs": "Gel làm sạch răng miệng cho chó từ 12 tuần tuổi Fresh Breath", "price": "325000", "image":"images/pkvs/pv18.png"
+},
+{
+    "id": "19", "name_pkvs": "Gel làm sạch răng miệng cho chó vị Vani Bạc Hà Fresh Breath", "price": "325000", "image":"images/pkvs/pv19.png"
+},
+{
+    "id": "20", "name_pkvs": "Xịt răng miệng cho chó hương bơ đậu phộng Fresh Breath", "price": "295000", "image":"images/pkvs/pv20.png"
+}
+]
+
+
+}

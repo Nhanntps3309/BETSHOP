@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BET SHOP</title>
+    <link rel="stylesheet" href="css/style1.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <style>
+    /* CSS for the updated footer */
+    .footer {
+      background-color: rgba(0, 0, 0, 0.7);
+      color: white;
+      padding: 40px 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .footer-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .logo img {
+      width: 150px;
+      margin-bottom: 20px;
+    }
+
+    .contact-info {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      width: 100%;
+      max-width: 800px;
+      margin-bottom: 20px;
+    }
+
+    .info-item {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 20px;
+      width: calc(50% - 20px);
+    }
+
+    .info-item i {
+      font-size: 24px;
+      margin-right: 10px;
+      color: #ff6600;
+    }
+
+    .info-item h3 {
+      font-size: 16px;
+      margin: 0 0 5px 0;
+    }
+
+    .info-item p {
+      font-size: 14px;
+      margin: 0;
+    }
+
+    .social-media {
+      margin-top: 20px;
+    }
+
+    .social-icon {
+      display: inline-block;
+      width: 40px;
+      height: 40px;
+      background-color: #333;
+      border-radius: 50%;
+      margin: 0 5px;
+      line-height: 40px;
+      font-size: 20px;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+    }
+
+    .dmca {
+      margin-top: 20px;
+    }
+
+    .dmca img {
+      width: 100px;
+    }
+
+    .copyright {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 12px;
+    }
+
+    @media (max-width: 768px) {
+      .info-item {
+        width: 100%;
+      }
+    }
+  </style>
+  <body>
+    <div class="container">
+      <nav id="menu">
+        <img src="images/logo.png" alt="Logo" class="logo" />
+        <div class="nav-links">
+          <a href="#">Trang chủ</a>
+          <a href="#">Giới thiệu</a>
+          <div class="dropdown">
+            <a href="#" id="sanpham">Sản phẩm</a>
+            <div id="dropdown-sanpham" class="dropdown-content">
+              <a href="pate.html">Pate</a>
+              <a href="thuc_an_hat.html">Thức ăn hạt</a>
+              <a href="sup_thuong.html">Súp thưởng</a>
+              <a href="tpcn.html">Thực phẩm chức năng</a>
+              <a href="dcdc.html">Đồ chơi dụng cụ</a>
+              <a href="pkvs.html">Phụ kiện vệ sinh</a>
+            </div>
+          </div>
+          <a href="#">Dịch vụ</a>
+          <a href="#">Sự kiện</a>
+          <a href="#">Liên hệ</a>
+        </div>
+        <div class="nav-icons">
+          <i class="fas fa-search"></i>
+          <i class="fas fa-shopping-cart"></i>
+          <i class="fas fa-user"></i>
+        </div>
+      </nav>
+      <header id="header">
+        <img src="images/header1.png" alt="anh" style="width: 100%" height="700px" />
+      </header>
+      <main>
+        <section id="#sp_ban_chay">
+          <h2>Sản phẩm bán chạy</h2>
+          <i class="fas fa-paw pet-icon" style="margin-bottom: 50px"></i>
+          <h3 style="color: #333333; font-size: 30px">PET LIKE US AND SO WILL YOU</h3>
+          <hr />
+          <div id="product-list"></div>
+          <!-- Nơi hiển thị danh sách sản phẩm -->
+        </section>
+        <hr />
+        <section id="boss_an_ngon">
+          <h2>BOSS ĂN NGON</h2>
+          <div class="icon-container">
+            <i class="fas fa-paw pet-icon"></i>
+          </div>
+          <p class="description">Các loại hạt, pate, bánh thưởng thơm ngon, bổ dưỡng cho Boss</p>
+          <div class="button-container">
+            <button id="prevButton" class="nav-button">&lt;</button>
+            <button id="nextButton" class="nav-button">&gt;</button>
+          </div>
+          <div id="product-list-bossan" class="product-container"></div>
+          <a href="#" class="view-more">Xem thêm</a>
+        </section>
+        <hr />
+        <section id="boss_thoi_thuong">
+          <h2>BOSS THỜI THƯỢNG</h2>
+          <div class="icon-container2">
+            <i class="fas fa-paw pet-icon2"></i>
+          </div>
+          <p class="description2">Các loại hạt, pate, bánh thưởng thơm ngon, bổ dưỡng cho Boss</p>
+          <div class="button-container2">
+            <button id="prevButton2" class="nav-button2">&lt;</button>
+            <button id="nextButton2" class="nav-button2">&gt;</button>
+          </div>
+          <div id="product-list-bosstt" class="product-container2"></div>
+          <a href="#" class="view-more2">Xem thêm</a>
+        </section>
+        <!-- Boss Giàu Có Section -->
+        <section id="boss_giau_co">
+          <h2>BOSS GIÀU CÓ</h2>
+          <div class="icon-container3">
+            <i class="fas fa-paw pet-icon3"></i>
+          </div>
+          <p class="description3">
+            Những dụng cụ - vật dụng tiện lợi, xịn xò hỗ trợ Sen trong quá trình chăm Boss
+          </p>
+          <div class="button-container3">
+            <button id="prevButton3" class="nav-button3">&lt;</button>
+            <button id="nextButton3" class="nav-button3">&gt;</button>
+          </div>
+          <div id="product-list-bossgc" class="product-container3"></div>
+          <a href="#" class="view-more3">Xem thêm</a>
+        </section>
+
+        <!-- Boss Xinh Đẹp Section -->
+        <section id="boss_xinh_dep">
+          <h2>BOSS XINH ĐẸP</h2>
+          <div class="icon-container4">
+            <i class="fas fa-paw pet-icon4"></i>
+          </div>
+          <p class="description4">
+            Những sản phẩm chăm sóc da lông, vệ sinh thơm tho giúp Boss xinh đẹp hơn
+          </p>
+          <div class="button-container4">
+            <button id="prevButton4" class="nav-button4">&lt;</button>
+            <button id="nextButton4" class="nav-button4">&gt;</button>
+          </div>
+          <div id="product-list-bossxd" class="product-container4"></div>
+          <a href="#" class="view-more4">Xem thêm</a>
+        </section>
+
+        <!-- Khoảnh Khắc Thú Cưng Section -->
+        <section id="khoan_khac_thu_cung">
+          <h2>KHOẢNH KHẮC THÚ CƯNG</h2>
+          <div class="icon-container5">
+            <i class="fas fa-paw pet-icon5"></i>
+          </div>
+          <p class="description5">PET LIKE US AND SO WILL YOU</p>
+          <div class="button-container5">
+            <button id="prevButton5" class="nav-button5">&lt;</button>
+            <button id="nextButton5" class="nav-button5">&gt;</button>
+          </div>
+          <div id="product-list-kktc" class="product-container5"></div>
+        </section>
+        <!-- Các phần khác không thay đổi -->
+      </main>
+
+      <!-- footer.html -->
+      <footer class="footer">
+        <div class="footer-content">
+          <div class="logo">
+            <img src="images/logo.png" alt="Pet Station Logo" />
+          </div>
+          <div class="contact-info">
+            <div class="info-item">
+              <i class="fas fa-map-marker-alt"></i>
+              <div>
+                <h3>Chi nhánh 1</h3>
+                <p>369A Tân Sơn Nhì, Phường Tân Thành, Quận Tân Phú, TP.Hồ Chí Minh.</p>
+              </div>
+            </div>
+            <div class="info-item">
+              <i class="fas fa-map-marker-alt"></i>
+              <div>
+                <h3>Chi nhánh 2</h3>
+                <p>A1 Phan Văn Trị, Phường 7, Quận Gò Vấp, TP.HCM</p>
+              </div>
+            </div>
+            <div class="info-item">
+              <i class="fas fa-phone-alt"></i>
+              <div>
+                <h3>Hotline</h3>
+                <p>1900 099 962</p>
+              </div>
+            </div>
+            <div class="info-item">
+              <i class="fas fa-envelope"></i>
+              <div>
+                <h3>Email</h3>
+                <p>chamsockhachhang@petstation.vn</p>
+              </div>
+            </div>
+            <div class="info-item">
+              <i class="far fa-clock"></i>
+              <div>
+                <h3>Thời gian mở cửa</h3>
+                <p>Từ Thứ 2 đến Chủ Nhật (8:00am - 10:00pm)</p>
+              </div>
+            </div>
+          </div>
+          <div class="social-media">
+            <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="social-icon"><i class="fab fa-tiktok"></i></a>
+            <a href="#" class="social-icon"><i class="fab fa-youtube"></i></a>
+            <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+            <a href="#" class="social-icon"><i class="fab fa-discord"></i></a>
+          </div>
+          <div class="dmca">
+            <img src="images/kktc/dmca.png" alt="DMCA Protected" />
+          </div>
+          <div class="copyright">
+            <p>Đang online: 10 | Thống: 19511 | Tổng truy cập: 1651790</p>
+            <p>2020 Copyright © PET STATION. All rights reserved.</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script type="module" src="js/index.js">
+      import { laySanPhamBanChay, bossAnNgon, BossThoiThuong, BossGiauCo, BossXinhDep, KhoanKhacThuCung } from './js/index.js';
+      document.querySelector("#sp_ban_chay #data").innerHTML = sp_ban_chay_html;
+      document.querySelector("#boss_an_ngon #data").innerHTML = boss_an_ngon_html;
+      document.querySelector("#boss_thoi_thuong #data").innerHTML = boss_thoi_thuong_html;
+      document.querySelector("#boss_giau_co #data").innerHTML = boss_giau_co_html;
+      document.querySelector("#boss_xinh_dep #data").innerHTML = boss_xinh_dep_html;
+      document.querySelector("#khoan_khac_thu_cung #data").innerHTML = khoan_khac_thu_cung_html;
+    </script>
+    <!-- Đảm bảo file JS được tải với type="module" -->
+  </body>
+</html>
